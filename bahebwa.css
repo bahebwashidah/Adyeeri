@@ -1,0 +1,58 @@
+.one {
+  width: 450px;
+  background-color: #CCCCCC;
+  display: inline-block;
+  padding-top:100px;
+  padding-bottom: 150px;
+  margin-right: 222.5px;
+  transition: background 0.5s;
+}
+.one:hover{background-color: yellow;}
+
+.two{
+  background-color: #764AF1;
+  width: 450px;
+  display: inline-block;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  margin-left: 222.5px;
+  transition: : background 0.5s;
+}
+.two:hover{background-color: green}
+.three{
+  background-color: #576F72;
+  padding-top: 100PX;
+  padding-bottom: 100PX;
+  width: 450px;
+  margin-left: 450PX;
+  transition: background 0.5s;
+}
+.three:hover{background-color:red;}
+
+.four{
+  background-color: #82ACFF;
+  width: 450PX;
+  padding-top: 100px;
+  padding-bottom: 150PX;
+  display: inline-block;
+  margin-right: 222.5px
+  transition: background 0.5s;
+
+}
+.four:hover{background-color: orange;}
+.five{
+  background-color: #F1DDBF;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  display: inline-block;
+  width: 450px;
+  margin-left: 222.5px;
+  transition: background 0.5s;
+  float: right;
+}
+.five:hover{
+  background-color: pink;
+}
+body{
+  margin: 0px;
+}
